@@ -1,0 +1,19 @@
+h1{
+    color:purple
+}
+h2{
+    color:tomato
+}
+button{
+    background-color: violet;
+}
+#box1
+{
+    height: 150px;
+    width: 500px;
+    background-color: aqua;
+    text-align: center;
+    border: 3px solid black;
+    margin-left: 25%;
+    margin-top: 15%;
+    }
